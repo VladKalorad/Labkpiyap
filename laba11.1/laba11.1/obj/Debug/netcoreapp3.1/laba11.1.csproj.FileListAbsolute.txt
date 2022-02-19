@@ -1,0 +1,14 @@
+E:\лабыkpiyap\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.csproj.AssemblyReference.cache
+E:\лабыkpiyap\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\лабыkpiyap\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.AssemblyInfoInputs.cache
+E:\лабыkpiyap\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.AssemblyInfo.cs
+E:\лабыkpiyap\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.csproj.CoreCompileInputs.cache
+E:\лабыkpiyap\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.exe
+E:\лабыkpiyap\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.deps.json
+E:\лабыkpiyap\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.runtimeconfig.json
+E:\лабыkpiyap\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.runtimeconfig.dev.json
+E:\лабыkpiyap\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.dll
+E:\лабыkpiyap\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.pdb
+E:\лабыkpiyap\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.dll
+E:\лабыkpiyap\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.pdb
+E:\лабыkpiyap\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.genruntimeconfig.cache
