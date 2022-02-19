@@ -1,0 +1,13 @@
+E:\лабыkpiyap\Laba9.2\Laba9.2\bin\Debug\netcoreapp3.1\Laba9.2.exe
+E:\лабыkpiyap\Laba9.2\Laba9.2\bin\Debug\netcoreapp3.1\Laba9.2.deps.json
+E:\лабыkpiyap\Laba9.2\Laba9.2\bin\Debug\netcoreapp3.1\Laba9.2.runtimeconfig.json
+E:\лабыkpiyap\Laba9.2\Laba9.2\bin\Debug\netcoreapp3.1\Laba9.2.runtimeconfig.dev.json
+E:\лабыkpiyap\Laba9.2\Laba9.2\bin\Debug\netcoreapp3.1\Laba9.2.dll
+E:\лабыkpiyap\Laba9.2\Laba9.2\bin\Debug\netcoreapp3.1\Laba9.2.pdb
+E:\лабыkpiyap\Laba9.2\Laba9.2\obj\Debug\netcoreapp3.1\Laba9.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\лабыkpiyap\Laba9.2\Laba9.2\obj\Debug\netcoreapp3.1\Laba9.2.AssemblyInfoInputs.cache
+E:\лабыkpiyap\Laba9.2\Laba9.2\obj\Debug\netcoreapp3.1\Laba9.2.AssemblyInfo.cs
+E:\лабыkpiyap\Laba9.2\Laba9.2\obj\Debug\netcoreapp3.1\Laba9.2.csproj.CoreCompileInputs.cache
+E:\лабыkpiyap\Laba9.2\Laba9.2\obj\Debug\netcoreapp3.1\Laba9.2.dll
+E:\лабыkpiyap\Laba9.2\Laba9.2\obj\Debug\netcoreapp3.1\Laba9.2.pdb
+E:\лабыkpiyap\Laba9.2\Laba9.2\obj\Debug\netcoreapp3.1\Laba9.2.genruntimeconfig.cache

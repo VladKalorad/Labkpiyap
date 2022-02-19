@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <height>20</height>
+  <weight>30</weight>
+  <Height>20</Height>
+  <Weight>30</Weight>
+</Room><?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <height>25</height>
+  <weight>35</weight>
+  <Height>25</Height>
+  <Weight>35</Weight>
+</Room><?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <height>25</height>
+  <weight>35</weight>
+  <Height>25</Height>
+  <Weight>35</Weight>
+</Room>
