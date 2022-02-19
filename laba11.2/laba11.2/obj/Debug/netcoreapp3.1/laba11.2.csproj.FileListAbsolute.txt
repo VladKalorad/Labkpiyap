@@ -1,0 +1,5 @@
+E:\лабыkpiyap\laba11.2\laba11.2\obj\Debug\netcoreapp3.1\laba11.2.csproj.AssemblyReference.cache
+E:\лабыkpiyap\laba11.2\laba11.2\obj\Debug\netcoreapp3.1\laba11.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\лабыkpiyap\laba11.2\laba11.2\obj\Debug\netcoreapp3.1\laba11.2.AssemblyInfoInputs.cache
+E:\лабыkpiyap\laba11.2\laba11.2\obj\Debug\netcoreapp3.1\laba11.2.AssemblyInfo.cs
+E:\лабыkpiyap\laba11.2\laba11.2\obj\Debug\netcoreapp3.1\laba11.2.csproj.CoreCompileInputs.cache
