@@ -1,0 +1,8 @@
+E:\лабыkpiyap\laba15.1\laba15.1\bin\Debug\laba15.1.exe.config
+E:\лабыkpiyap\laba15.1\laba15.1\bin\Debug\laba15.1.exe
+E:\лабыkpiyap\laba15.1\laba15.1\bin\Debug\laba15.1.pdb
+E:\лабыkpiyap\laba15.1\laba15.1\obj\Debug\laba15.1.csproj.CoreCompileInputs.cache
+E:\лабыkpiyap\laba15.1\laba15.1\obj\Debug\laba15.1.exe
+E:\лабыkpiyap\laba15.1\laba15.1\obj\Debug\laba15.1.pdb
+E:\лабыkpiyap\laba15.1\laba15.1\obj\Debug\laba15.1.csproj.AssemblyReference.cache
+E:\лабыkpiyap\laba15.1\laba15.1\obj\Debug\laba15.1.csproj.CopyComplete
