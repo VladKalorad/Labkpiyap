@@ -1,0 +1,7 @@
+E:\лабыkpiyap\laba 12.2\laba 12.2\bin\Debug\laba 12.2.exe.config
+E:\лабыkpiyap\laba 12.2\laba 12.2\bin\Debug\laba 12.2.exe
+E:\лабыkpiyap\laba 12.2\laba 12.2\bin\Debug\laba 12.2.pdb
+E:\лабыkpiyap\laba 12.2\laba 12.2\obj\Debug\laba 12.2.csproj.AssemblyReference.cache
+E:\лабыkpiyap\laba 12.2\laba 12.2\obj\Debug\laba 12.2.csproj.CoreCompileInputs.cache
+E:\лабыkpiyap\laba 12.2\laba 12.2\obj\Debug\laba 12.2.exe
+E:\лабыkpiyap\laba 12.2\laba 12.2\obj\Debug\laba 12.2.pdb
