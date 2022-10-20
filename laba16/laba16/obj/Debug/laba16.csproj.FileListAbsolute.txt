@@ -1,0 +1,7 @@
+E:\лабыkpiyap\laba16\laba16\bin\Debug\laba16.exe.config
+E:\лабыkpiyap\laba16\laba16\bin\Debug\laba16.exe
+E:\лабыkpiyap\laba16\laba16\bin\Debug\laba16.pdb
+E:\лабыkpiyap\laba16\laba16\obj\Debug\laba16.csproj.AssemblyReference.cache
+E:\лабыkpiyap\laba16\laba16\obj\Debug\laba16.csproj.CoreCompileInputs.cache
+E:\лабыkpiyap\laba16\laba16\obj\Debug\laba16.exe
+E:\лабыkpiyap\laba16\laba16\obj\Debug\laba16.pdb
